@@ -1,2 +1,2 @@
 # irisJones_exploreOpenSource
-girls who code explore open source challenge
+This repo is for the girls who code explore open source challenge
