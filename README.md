@@ -7,3 +7,4 @@ Since Delilah sourced most of her user-testers through her network, their backgr
 
 My response to the prompt is below:
 Making her project open source will allow more testers to access it, but it sounds like she needs a way to actively recruit more user-testers. Maybe she should ask GWC to help her recruit.
+Hi
